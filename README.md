@@ -5,4 +5,4 @@ occupancy, and clustering trends within the city over the recent months/years.
 
 This project was made by Roshini Ganesh and Samriddhi Khare.
 
-The published site for this example repository is available at: [https://samriddhikhar3.github.io/MUSA_550_Final_Project/](https://samriddhikhar3.github.io/MUSA_550_Final_Project/).
+The published site for this example repository is available at [this link.](https://samriddhikhar3.github.io/PY_FINAL/)

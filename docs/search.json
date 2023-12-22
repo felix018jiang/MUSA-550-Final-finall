@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Analyzing Parking Trends in San Francisco, CA",
     "section": "",
-    "text": "https://www.way.com/blog/4-things-to-know-before-parking-in-san-francisco/"
+    "text": "Samriddhi Khare, Roshini Ganesh Final Project, MUSA 550"
   },
   {
     "objectID": "index.html#welcome",
@@ -95,7 +95,7 @@
     "href": "analysis/index.html",
     "title": "Analysis",
     "section": "",
-    "text": "Analysis\nThis section includes examples of technical analysis done using Jupyter notebooks. Each sub-section highlights different types of analyses and visualizations. In particular, it highlights that we can easily publish interactive visualizations produced with packages such as hvPlot, altair, or Folium, without losing any of the interactive features.\nOn this page, you might want to share more introductory or background information about the analyses to help guide the reader."
+    "text": "Analysis\nWe divided our analysis in to three distinct steps. Each sub-section highlights different types of analyses and visualizations:\n\nExploratory Analysis: Exploring the parking meter dataset to understand the relationships between the variables included.\nCensus API Data Collection: Collecting socio-economic variables from the American Community Survey fro the year 2021 and joining it to our street and meters data to explore patterns.\nSpatial Processes and Correlations: Exploring the relationships between variables after performing the join and observing correlations between calculated and chosed metrics."
   },
   {
     "objectID": "index.html#introduction",
